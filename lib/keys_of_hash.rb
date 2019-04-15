@@ -15,6 +15,8 @@ class Hash
 
           animal_hash.each do |animal, country|
                     binding.pry
+            if country == argument
+              keys << animal
           end
     end
     keys
