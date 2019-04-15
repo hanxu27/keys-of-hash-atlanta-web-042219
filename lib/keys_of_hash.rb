@@ -12,7 +12,10 @@ class Hash
     keys = []
     
     arguments.each do |argument|
-          binding.pry
+
+          animal_hash.each do |animal|
+                    binding.pry
+          end
     end
     keys
   end
