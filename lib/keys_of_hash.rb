@@ -10,6 +10,8 @@ class Hash
       
     binding.pry
     keys = []
+    
+    animal_hash
     keys
   end
 end
