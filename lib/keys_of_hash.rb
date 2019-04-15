@@ -5,7 +5,7 @@ class Hash
     # code goes here
     binding.pry
     keys = []
-    
-    
+      arguments.
+    keys
   end
 end
