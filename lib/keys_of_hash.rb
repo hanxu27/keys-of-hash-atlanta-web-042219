@@ -8,11 +8,11 @@ class Hash
     # code goes here
     animal_hash = {"sugar glider"=>"Australia","aye-aye"=> "Madagascar","red-footed tortoise"=>"Panama","kangaroo"=> "Australia","tomato frog"=>"Madagascar","koala"=>"Australia"} 
       
-    binding.pry
+
     keys = []
     
     arguments.each do |argument|
-      
+          binding.pry
     end
     keys
   end
