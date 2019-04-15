@@ -11,7 +11,9 @@ class Hash
     binding.pry
     keys = []
     
-    animal_hash
+    arguments.each do |argument|
+      
+    end
     keys
   end
 end
