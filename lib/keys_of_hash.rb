@@ -17,6 +17,7 @@ class Hash
                     #binding.pry
             if country == argument
               keys << animal
+            end
           end
     end
     keys
