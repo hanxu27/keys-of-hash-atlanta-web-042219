@@ -13,7 +13,7 @@ class Hash
     
     arguments.each do |argument|
 
-          animal_hash.each do |animal|
+          animal_hash.each do |animal, country|
                     binding.pry
           end
     end
